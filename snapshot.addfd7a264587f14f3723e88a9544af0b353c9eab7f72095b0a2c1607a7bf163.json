@@ -1,0 +1,33 @@
+{
+  "title": "Личный бизнес-спринт",
+  "generatedAt": "2026-10-02T08:36:05Z",
+  "buildStatus": "complete",
+  "queries": {
+    "brief": {
+      "rows": [
+        {
+          "goalMin": 500,
+          "goalMax": 1000,
+          "budgetMin": 100,
+          "budgetMax": 200,
+          "actualsAvailable": false
+        }
+      ],
+      "source": {
+        "provider": "Личное ТЗ v0.2",
+        "description": "Personal_Business_Research_Spec_v0.1.md, 02.10.2026; фактические коммерческие результаты отсутствуют",
+        "evidenceFlow": [
+          {
+            "title": "Исходное ТЗ",
+            "detail": "Прочитан current_personal/Personal_Business_Research_Spec_v0.1.md; цель, бюджет и кандидаты из разделов 1, 5, 12."
+          }
+        ]
+      }
+    }
+  },
+  "surface": "dashboard",
+  "id": "dashboard:a403edd9-0ea1-4d16-9351-9914565f35ec",
+  "subtitle": "Турин · Пьемонт · онлайн",
+  "filters": [],
+  "assumptions": {}
+}
