@@ -3,8 +3,8 @@
   "kind": "separate-data-v1",
   "html": {
     "path": "index.html",
-    "sha256": "546defe0586c58d1c7fcfee402f717989e278660664e759fab7f808a789ef0fb",
-    "bytes": 3077729
+    "sha256": "6a7693918ced99fc3ca83dcc1313a3b739e1b3ed7d0e3b770677b90bd125563a",
+    "bytes": 3108260
   },
   "snapshot": {
     "path": "snapshot.addfd7a264587f14f3723e88a9544af0b353c9eab7f72095b0a2c1607a7bf163.json",
@@ -14,3 +14,4 @@
   "runtimeSha256": "9e3ede84b28aded3c7379b6e6a5611f0d95b9977eb0f781e279ceefabfcbd27e",
   "sourceSnapshotSha256": "addfd7a264587f14f3723e88a9544af0b353c9eab7f72095b0a2c1607a7bf163"
 }
+
